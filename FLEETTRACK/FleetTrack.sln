@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleetTrack.Data", "..\Fleet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleetTrack.Domain", "..\FleetTrack.Domain\FleetTrack.Domain.csproj", "{7F635B38-B30D-48D0-BC02-705541CD9E5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleetTrack.WPF", "..\FleetTrack.WPF\FleetTrack.WPF.csproj", "{1C46C407-71EA-4FEB-909B-B7805DA049BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7F635B38-B30D-48D0-BC02-705541CD9E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F635B38-B30D-48D0-BC02-705541CD9E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F635B38-B30D-48D0-BC02-705541CD9E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C46C407-71EA-4FEB-909B-B7805DA049BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C46C407-71EA-4FEB-909B-B7805DA049BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C46C407-71EA-4FEB-909B-B7805DA049BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C46C407-71EA-4FEB-909B-B7805DA049BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
