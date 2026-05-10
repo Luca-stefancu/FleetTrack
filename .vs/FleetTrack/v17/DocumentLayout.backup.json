@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucac\\OneDrive\\Documents\\FleetTrack\\FleetTrack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C46C407-71EA-4FEB-909B-B7805DA049BF}|..\\FleetTrack.WPF\\FleetTrack.WPF.csproj|c:\\users\\lucac\\onedrive\\documents\\fleettrack\\fleettrack.wpf\\fleettrack.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C46C407-71EA-4FEB-909B-B7805DA049BF}|..\\FleetTrack.WPF\\FleetTrack.WPF.csproj|c:\\users\\lucac\\onedrive\\documents\\fleettrack\\fleettrack.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C46C407-71EA-4FEB-909B-B7805DA049BF}|..\\FleetTrack.WPF\\FleetTrack.WPF.csproj|c:\\users\\lucac\\onedrive\\documents\\fleettrack\\fleettrack.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lucac\\OneDrive\\Documents\\FleetTrack\\FleetTrack.WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\FleetTrack.WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lucac\\OneDrive\\Documents\\FleetTrack\\FleetTrack.WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\FleetTrack.WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAYwEEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:25:18.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lucac\\OneDrive\\Documents\\FleetTrack\\FleetTrack.WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\FleetTrack.WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lucac\\OneDrive\\Documents\\FleetTrack\\FleetTrack.WPF\\MainWindow.xaml",
+              "RelativeToolTip": "..\\FleetTrack.WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-10T15:25:10.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FleetTrack.WPF.csproj",
+              "DocumentMoniker": "C:\\Users\\lucac\\OneDrive\\Documents\\FleetTrack\\FleetTrack.WPF\\FleetTrack.WPF.csproj",
+              "RelativeDocumentMoniker": "..\\FleetTrack.WPF\\FleetTrack.WPF.csproj",
+              "ToolTip": "C:\\Users\\lucac\\OneDrive\\Documents\\FleetTrack\\FleetTrack.WPF\\FleetTrack.WPF.csproj",
+              "RelativeToolTip": "..\\FleetTrack.WPF\\FleetTrack.WPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T15:25:06.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
